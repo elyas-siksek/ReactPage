@@ -1,0 +1,36 @@
+.header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .header-logo span {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .nav-link-explore {
+    color: #007bff !important; 
+  }
+  
+  .nav-link-explore:hover,
+  .nav-link:hover {
+    color: #0056b3 !important;
+  }
+  
+  .notification-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+    width: 8px;
+    height: 8px;
+    background-color: #ffaa33;
+    border: 1px solid white;
+    border-radius: 50%;
+  }
+  
+  .profile-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+  }

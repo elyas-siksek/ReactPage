@@ -1,0 +1,38 @@
+nav {
+    background-color: #eee5e5;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    background-color: orange;
+  }
+  
+  nav ul li a i {
+    margin-right: 8px;
+  }
+    
+  .body{
+    background-color: aqua;
+  }
+   

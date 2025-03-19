@@ -1,0 +1,28 @@
+.newsletter-section {
+background-image: url("../assets/Subscribesectionbackground.png");
+    position: relative;
+    padding-bottom: 0;
+  }
+  
+  .newsletter-section .newsletter-form {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .newsletter-section .form-control {
+    border-radius: 8px;
+    padding: 0.75rem;
+  }
+  
+  .newsletter-section .submit-btn {
+    background-color: #ffaa33 !important;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem 2rem;
+    font-weight: bold;
+  }

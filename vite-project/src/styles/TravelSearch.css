@@ -1,0 +1,56 @@
+.dot {
+    width: 8px;
+    height: 8px;
+    background-color: #007bff;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .line {
+    width: 50px;
+    height: 2px;
+    background-color: #007bff;
+    display: inline-block;
+    margin: 0 5px;
+  }
+  
+  .trip-option {
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+  }
+  
+  .hotel {
+    background-color: #ff6f61 !important;
+    color: white !important;
+  }
+  
+  .attractions {
+    background-color: #ffaa33 !important;
+    color: white !important;
+  }
+  
+  .eats {
+    background-color: #28a745 !important;
+    color: white !important;
+  }
+  
+  .commute {
+    background-color: #f7c948 !important;
+    color: white !important;
+  }
+  
+  .taxi {
+    background-color: #17a2b8 !important;
+    color: white !important;
+  }
+  
+  .movies {
+    background-color: #28a745 !important;
+    color: white !important;
+  }
